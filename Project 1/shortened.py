@@ -42,6 +42,6 @@ else:
  
     '''
     if((computer - you) == -1 or  (computer - you) == 2 ):
-        print("You lose!")
+        print("You lose! you sad face!!")
     else:
         print("You win! Congrats!!!!") 
