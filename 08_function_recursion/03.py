@@ -1,0 +1,9 @@
+# Functions_with _argument 
+   # we have done string concatination 
+def goodDay(name, ending):
+    print("Good Day, " + name)
+    print(ending)
+    return "ok"
+
+a = goodDay("Harry", "Thank you") 
+print(a)

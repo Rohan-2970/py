@@ -1,0 +1,39 @@
+# a = ["rohan", 87,453,34,54,54]
+# C = int(input("Enter a number:"))
+# a.append(C)
+# print(a)
+
+# a=[90,32,43,56,65,32,13,56]
+# print(a)
+# c=int(input("Enter a number:"))
+# a.remove(c)
+# print(a)
+
+# print(a[0])
+# print(a[7])
+
+# element= int(input("Enter a number:"))
+
+# Write a program to check if an element exists in a
+#  list
+
+
+# if element in a:
+#     print(f"yes {element} is in the list a ")
+# else:
+#     print(f"No {element} not in the list")
+
+# Write a program to concatenate two lists.
+
+# list1 = [1,2,3]
+# list2 = [4,5,6]
+# result = list1 + list2
+# print(f"list 1 {list1}")
+# print(f"list 2 {list2}")
+# print(f"concatenation {result }")
+
+# a=[90,32,43,56,65,32,13,56]
+
+# index = a.index(32)
+# print(index)
+
