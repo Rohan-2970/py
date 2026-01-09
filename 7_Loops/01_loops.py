@@ -8,3 +8,5 @@ print(5)
 for i in range (1,16):
     print(i)
 # 2 types of loops for , while  
+
+# for loop
