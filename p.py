@@ -1,2 +1,5 @@
-a = input("Enter the input: ")
-print(type(a))
+a=int(input("Enter the number: "))
+b=int(input("Enter the number: "))
+print("Average of a and b are: ",(a+b)/2)
+print("The square of a is: ", a*a)
+print("The square of a is: ",a**2)
