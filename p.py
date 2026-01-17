@@ -1,5 +1,8 @@
-list1 = [1,5,6]
-list2 = [8,4,3]
-print(f"list 1: {list1}")
-print(f"list 2: {list2}")
-print(f"Concatenation: {list1+list2}")
+a =[]
+for i in range(1,6):
+    a.append(i*i)
+print(a)
+
+fruits = []
+f1 = input("Enter the 1st fruit name: ")
+fruits.append(f1)

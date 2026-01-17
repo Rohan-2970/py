@@ -1,4 +1,4 @@
-friends=["apple",89,"Rohan",908,"ajay","bagundi"]
+friends=["apple",89,"Rohan",908,"a","b"]
 print(friends[0])
 
 friends.append("Harry")
