@@ -1,2 +1,2 @@
-name = input("Enter your name: ")
-print(f"good morning {name}")
+a = "Mrea name ching ching chu baba ching ching cvhu \"raat\""
+print(a)
