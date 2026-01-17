@@ -1,9 +1,5 @@
-name = "Rohan"
-print(len(name))
+friends = ["apple",54,"rohan",56]
+print(friends)
 
-print(name.endswith("an"))
-print(name.startswith("Ro"))
-print(name.capitalize())
-
-index = name.find("n")
-print(index)
+friends[0] = "mangoose"
+print(friends)
