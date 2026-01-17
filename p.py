@@ -1,3 +1,2 @@
-a=float(input("Enter the number: "))
-b=int(input("Enter the number: "))
-print("to find the remainder",a%b)
+name = input("Enter your name: ")
+print(f"good morning {name}")
